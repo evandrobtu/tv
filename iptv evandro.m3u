@@ -117,39 +117,127 @@ http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37038.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ms5rf4" tvg-id="0" group-title="FILMES/SERIES",TELE CINE PIPOCA SD 2
 http://51.68.152.224:8080/TelecinePipoca/mpegts?token=cYW_L52030
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ms5rf4" tvg-id="0" group-title="FILMES/SERIES",TELE CINE PIPOCA HD
-http://tv.factoryiptv.com:80/live/Marcos05/Marcos05/36937.m3u8
-
 #EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_CULT.png" group-title="FILMES/SERIES",TELECINE CULT SD
 http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37039.m3u8
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_CULT.png" group-title="FILMES/SERIES",TELECINE CULT HD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37039.m3u8
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_FUN.png" group-title="FILMES/SERIES",TELECINE FUN SD
-http://177.139.171.102:27030/live/alvaro/17/134.ts
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_FUN.png" group-title="FILMES/SERIES",TELECINE FUN HD
-http://177.139.171.102:27030/live/alvaro/17/134.ts
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_ACTION.png" group-title="FILMES/SERIES",TELECINE ACTION SD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37040.m3u8
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_ACTION.png" group-title="FILMES/SERIES",TELECINE ACTION HD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37040.m3u8
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_PREMIUM.png" group-title="FILMES/SERIES",Telecine Premium SD
-http://177.139.171.102:27030/live/alvaro/17/137.ts
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PREMIUM.png" group-title="FILMES/SERIES",Telecine Premium HD
-http://177.139.171.102:27030/live/alvaro/17/137.ts
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_TOUCH.png" group-title="FILMES/SERIES",Telecine Touch SD
-https://canal2.cometa.top/hls1/telecinetouch.m3u8
-
-#EXTINF:-1 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_TOUCH.png" group-title="FILMES/SERIES",Telecine Touch HD
-https://canal2.cometa.top/hls1/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.wiseknow.com/wp-content/uploads/2016/08/724_3001.png" group-title="FILMES/SERIES",Fox HD
 http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37101.m3u8
 
+################################################################################## SOUND!
+#EXTINF:-1 tvg-logo="" group-title="SOUND!",[COLOR red]//////////SOUND!//////////[/COLOR]
+http://23.23.5.1
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 90
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,AXÉ
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BREGA
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ELETRÔNICA
+http://192.99.150.31:9095/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FESTA
+http://6d9a.webradio.upx.net.br:9070/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-
+NAME=''RADIO=TRUE,FORRÓ
+http://192.99.150.31:9019/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FUNK
+http://192.99.150.31:9089/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,GOSPEL
+http://192.99.150.31:9101/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HIP HOP
+http://192.99.150.31:8721/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,KIDS
+http://192.99.150.31:9431/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,JAZZ
+http://192.99.150.31:8042/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,METAL
+http://6d9a.webradio.upx.net.br:9898/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MPB
+http://192.99.150.31:8775/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream? 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP RITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, REGGAE
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png"TVG-NAME=''RADIO=TRUE, ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png"TVG-NAME=''RADIO=TRUE, ROCK CLASSICO
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RODEIO
+http://192.99.150.31:9473/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECHNO
+http://192.99.150.31:8301/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECNO BREGA
+http://192.99.150.31:8989/stream
+
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, STUDIO DO AMOR
+http://192.99.150.31:8962/stream
